@@ -4,3 +4,6 @@ Explore GitHub
 Create a new Repository
 Add the files
 commit 
+
+Make some changes
+commit again
