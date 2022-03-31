@@ -7,3 +7,8 @@ commit
 
 Make some changes
 commit again
+
+
+I think i can go for adding new features. but i don't want it to reflect in my current project
+I want to add it future.
+Let me commit this on a new branch "feature-for-future"...
