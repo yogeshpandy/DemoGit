@@ -1,0 +1,6 @@
+Create a GitHub Account
+Sign in using username & password
+Explore GitHub
+Create a new Repository
+Add the files
+commit 
